@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970294195463",
+    "project_id": "bolovai",
+    "storage_bucket": "bolovai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970294195463:android:a824f8f2384bed769941a2",
+        "android_client_info": {
+          "package_name": "com.example.bolovai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970294195463-7s56ksd2d2i75e7bf7ivelhr8kovgai7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiBNuQkSEo9NtcG3uEbxmHRV1mtZavopA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970294195463-7s56ksd2d2i75e7bf7ivelhr8kovgai7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
